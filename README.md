@@ -1,6 +1,6 @@
 Just a simple first steps toward fastapi and an overview through its ecosystem as well.
 
-# Over Terminal:- 
+# Over Terminal: 
 
 1. python -m venv venv
 2. Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted -Force
